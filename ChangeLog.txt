@@ -1,0 +1,6 @@
+Capture changes
+
+[27 AUG 2024]
+-Added Tray Icon
+-Cleanup of code in main module to allow for spawing multiple instances (in next iteration want to be able to run multiple concurrent RDP sessions)
+-Added check for xfreerdp or xfreerdp3
