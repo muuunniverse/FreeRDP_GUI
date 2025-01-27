@@ -4,3 +4,11 @@ Capture changes
 -Added Tray Icon
 -Cleanup of code in main module to allow for spawing multiple instances (in next iteration want to be able to run multiple concurrent RDP sessions)
 -Added check for xfreerdp or xfreerdp3
+
+[27 JAN 2025]
+-Major code update to GTK4
+-Major Tidy up of all code
+-Tray Icon Libraries no longer compatible so just create and drag a desktop icon to the KDE tray
+-Added Error Codes for TSHOOT - need to update references
+-style.css and the ico and png must be placed in the running directory or a subdirectory (may correct pakaging at a later date)
+-Drop down list added for additional entries.

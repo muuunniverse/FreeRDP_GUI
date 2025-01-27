@@ -1,0 +1,42 @@
+/* style.css */
+.title {
+    font-size: 25px;
+    /*font-weight: bold;*/
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+.window {
+    background-color: #46443e;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+.label {
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    font: 900;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+.button {
+    background-color: rgb(56, 53, 46);
+    /*border-radius: 5px;*/
+    color: rgba(255, 255, 255, 0.685);
+    font: 900;
+    font-size: 12px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+.crit_button {
+    background-color: rgb(189, 180, 147);
+    /*border-radius: 5px;*/
+    color: rgb(0, 0, 0);
+    font: 900;
+    font-size: 18px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+.subtext {
+    font-size: xx-small color: rgb(255, 255, 255);
+    font: 900;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
